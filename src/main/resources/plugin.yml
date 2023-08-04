@@ -1,0 +1,9 @@
+name: dental_diseases
+version: '${project.version}'
+main: komugino.me.dentaldiseases.DentalDiseases
+api-version: '1.17'
+authors: [Komugikotan]
+
+commands:
+  dental:
+    description: You can give player a toothbrash
